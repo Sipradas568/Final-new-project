@@ -1,0 +1,3 @@
+browser : "chrome"
+base_url : "https://rahulshettyacademy.com"
+implicit_wait : 5
