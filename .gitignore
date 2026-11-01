@@ -1,0 +1,4 @@
+resources/Test_data.xlsx
+.pytest_cache/
+reports/
+claude
